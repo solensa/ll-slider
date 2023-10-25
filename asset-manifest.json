@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/ll-slider/static/css/main.da444fc6.css",
-    "main.js": "/ll-slider/static/js/main.f3f62ea7.js",
+    "main.js": "/ll-slider/static/js/main.3d98b789.js",
     "static/js/787.3c766a8b.chunk.js": "/ll-slider/static/js/787.3c766a8b.chunk.js",
-    "static/media/guns.png": "/ll-slider/static/media/guns.bf1d7a598b1bd55bf0ec.png",
-    "static/media/inclusion-wellbeing.png": "/ll-slider/static/media/inclusion-wellbeing.8832f4b0fde12f8ac532.png",
-    "static/media/brilliant-basics.png": "/ll-slider/static/media/brilliant-basics.5cea67f3ffd38e9dd018.png",
-    "static/media/young-guns.png": "/ll-slider/static/media/young-guns.097e0313fef078c1288c.png",
-    "static/media/data-academy.png": "/ll-slider/static/media/data-academy.e819d2d4a0ab420f3e58.png",
-    "static/media/masters.png": "/ll-slider/static/media/masters.9e4361774e78599ddb3c.png",
+    "static/media/guns3.png": "/ll-slider/static/media/guns3.f4bd21ade515f03d242f.png",
+    "static/media/brilliant-basics3.png": "/ll-slider/static/media/brilliant-basics3.a774517b8139a28db27d.png",
+    "static/media/inclusion-wellbeing3.png": "/ll-slider/static/media/inclusion-wellbeing3.46322c57b6c01512f003.png",
+    "static/media/young-guns3.png": "/ll-slider/static/media/young-guns3.85b306b4ec9e7cc494a8.png",
+    "static/media/data-academy3.png": "/ll-slider/static/media/data-academy3.00eac39203f0cfb684b3.png",
+    "static/media/masters3.png": "/ll-slider/static/media/masters3.8049873da49fa32498a8.png",
     "static/media/logo.svg": "/ll-slider/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ll-slider/index.html",
     "static/media/circle-chevron-left-solid.svg": "/ll-slider/static/media/circle-chevron-left-solid.e46386357a8098abecee74d561ef9934.svg",
     "static/media/circle-chevron-right-solid.svg": "/ll-slider/static/media/circle-chevron-right-solid.5ddb78087c026d4fad6f4f254f9c5b4b.svg",
     "main.da444fc6.css.map": "/ll-slider/static/css/main.da444fc6.css.map",
-    "main.f3f62ea7.js.map": "/ll-slider/static/js/main.f3f62ea7.js.map",
+    "main.3d98b789.js.map": "/ll-slider/static/js/main.3d98b789.js.map",
     "787.3c766a8b.chunk.js.map": "/ll-slider/static/js/787.3c766a8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da444fc6.css",
-    "static/js/main.f3f62ea7.js"
+    "static/js/main.3d98b789.js"
   ]
 }
