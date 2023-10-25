@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ll-slider/static/css/main.3048cce0.css",
-    "main.js": "/ll-slider/static/js/main.5c2cc6b2.js",
+    "main.css": "/ll-slider/static/css/main.15d6dc8e.css",
+    "main.js": "/ll-slider/static/js/main.cc893aeb.js",
     "static/js/787.3c766a8b.chunk.js": "/ll-slider/static/js/787.3c766a8b.chunk.js",
     "static/media/guns.png": "/ll-slider/static/media/guns.bf1d7a598b1bd55bf0ec.png",
     "static/media/inclusion-wellbeing.png": "/ll-slider/static/media/inclusion-wellbeing.8832f4b0fde12f8ac532.png",
@@ -11,12 +11,14 @@
     "static/media/masters.png": "/ll-slider/static/media/masters.9e4361774e78599ddb3c.png",
     "static/media/logo.svg": "/ll-slider/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ll-slider/index.html",
-    "main.3048cce0.css.map": "/ll-slider/static/css/main.3048cce0.css.map",
-    "main.5c2cc6b2.js.map": "/ll-slider/static/js/main.5c2cc6b2.js.map",
+    "static/media/circle-chevron-left-solid.svg": "/ll-slider/static/media/circle-chevron-left-solid.e46386357a8098abecee74d561ef9934.svg",
+    "static/media/circle-chevron-right-solid.svg": "/ll-slider/static/media/circle-chevron-right-solid.5ddb78087c026d4fad6f4f254f9c5b4b.svg",
+    "main.15d6dc8e.css.map": "/ll-slider/static/css/main.15d6dc8e.css.map",
+    "main.cc893aeb.js.map": "/ll-slider/static/js/main.cc893aeb.js.map",
     "787.3c766a8b.chunk.js.map": "/ll-slider/static/js/787.3c766a8b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3048cce0.css",
-    "static/js/main.5c2cc6b2.js"
+    "static/css/main.15d6dc8e.css",
+    "static/js/main.cc893aeb.js"
   ]
 }
