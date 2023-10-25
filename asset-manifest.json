@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ll-slider/static/css/main.15d6dc8e.css",
-    "main.js": "/ll-slider/static/js/main.cc893aeb.js",
+    "main.css": "/ll-slider/static/css/main.da444fc6.css",
+    "main.js": "/ll-slider/static/js/main.f3f62ea7.js",
     "static/js/787.3c766a8b.chunk.js": "/ll-slider/static/js/787.3c766a8b.chunk.js",
     "static/media/guns.png": "/ll-slider/static/media/guns.bf1d7a598b1bd55bf0ec.png",
     "static/media/inclusion-wellbeing.png": "/ll-slider/static/media/inclusion-wellbeing.8832f4b0fde12f8ac532.png",
@@ -13,12 +13,12 @@
     "index.html": "/ll-slider/index.html",
     "static/media/circle-chevron-left-solid.svg": "/ll-slider/static/media/circle-chevron-left-solid.e46386357a8098abecee74d561ef9934.svg",
     "static/media/circle-chevron-right-solid.svg": "/ll-slider/static/media/circle-chevron-right-solid.5ddb78087c026d4fad6f4f254f9c5b4b.svg",
-    "main.15d6dc8e.css.map": "/ll-slider/static/css/main.15d6dc8e.css.map",
-    "main.cc893aeb.js.map": "/ll-slider/static/js/main.cc893aeb.js.map",
+    "main.da444fc6.css.map": "/ll-slider/static/css/main.da444fc6.css.map",
+    "main.f3f62ea7.js.map": "/ll-slider/static/js/main.f3f62ea7.js.map",
     "787.3c766a8b.chunk.js.map": "/ll-slider/static/js/787.3c766a8b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15d6dc8e.css",
-    "static/js/main.cc893aeb.js"
+    "static/css/main.da444fc6.css",
+    "static/js/main.f3f62ea7.js"
   ]
 }
